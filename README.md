@@ -1,10 +1,7 @@
 # StageFlow AI
 
-> **StageFlow AI** est une plateforme web qui centralise les offres de stage et les candidatures.
-> Elle aide les entreprises à comparer les compétences d'un CV avec celles demandées dans une offre grâce à un micro-service IA.
-> Le score IA est indicatif : la décision finale appartient toujours au recruteur.
-
-Projet Fédérateur d'Ingénierie Logicielle — 2ème année cycle ingénieur (M1) — Polytech Intl.
+StageFlow AI** est une plateforme web qui centralise les offres de stage et les candidatures.Elle aide les entreprises à comparer les compétences d'un CV avec celles demandées dans une offre grâce à un micro-service IA.
+Le score IA est indicatif : la décision finale appartient toujours au recruteur.
 
 ---
 
@@ -55,7 +52,4 @@ Installez les outils suivants, puis vérifiez-les avec la commande indiquée dan
 | **Python 3** (avec pip) | Lancer le micro-service IA FastAPI | `python --version` puis `pip --version` | https://www.python.org/downloads |
 | **Docker Desktop** (avec Docker Compose) | Lancer PostgreSQL et tous les services ensemble | `docker --version` puis `docker compose version` | https://www.docker.com/products/docker-desktop |
 
-**Conseils**
-- Docker Desktop doit être **démarré** avant d'utiliser les commandes `docker`.
-- Sous Windows, si `python` n'est pas reconnu, essayez `py --version`.
-- Pour lancer uniquement avec Docker Compose, **Git** et **Docker Desktop** suffisent.
+
