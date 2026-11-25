@@ -48,7 +48,7 @@ React  -->  Spring Boot  -->  FastAPI (IA)
 | **Git** | Gérer le code et travailler en équipe | `git --version` | https://git-scm.com/downloads |
 | **Node.js** (avec npm) | Lancer le frontend React | `node -v` puis `npm -v` | https://nodejs.org |
 | **Java JDK** (17 ou plus) et **Maven** | Lancer le backend Spring Boot | `java -version` puis `mvn -v` | https://adoptium.net |
-| **Python 3** (avec pip) | Lancer le micro-service IA FastAPI | `python --version` puis `pip --version` | https://www.python.org/downloads |
+| **Python 3.11+** (avec pip) | Lancer le micro-service IA FastAPI | `python --version` puis `pip --version` | https://www.python.org/downloads |
 | **Docker Desktop** (avec Docker Compose) | Lancer PostgreSQL et tous les services ensemble | `docker --version` puis `docker compose version` | https://www.docker.com/products/docker-desktop |
 
 
