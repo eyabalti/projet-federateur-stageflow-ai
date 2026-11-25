@@ -1,6 +1,6 @@
 # StageFlow AI
 
-StageFlow AI** est une plateforme web qui centralise les offres de stage et les candidatures.Elle aide les entreprises à comparer les compétences d'un CV avec celles demandées dans une offre grâce à un micro-service IA.
+StageFlow AI est une plateforme web qui centralise les offres de stage et les candidatures.Elle aide les entreprises à comparer les compétences d'un CV avec celles demandées dans une offre grâce à un micro-service IA.
 Le score IA est indicatif : la décision finale appartient toujours au recruteur.
 
 ---
