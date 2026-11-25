@@ -42,7 +42,6 @@ React  -->  Spring Boot  -->  FastAPI (IA)
 
 ## Prérequis d'installation
 
-Installez les outils suivants, puis vérifiez-les avec la commande indiquée dans un terminal.
 
 | Outil | Utilité | Vérification | Téléchargement |
 |---|---|---|---|
